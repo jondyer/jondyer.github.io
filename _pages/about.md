@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Machine Learning Engineer | Carnegie Mellon University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Freelance consultant @</p>
+    <p>Tomorrow University of Applied Sciences</p>
+    <p>Berlin, Germany (remote)</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working as a freelance consultant for the [Tomorrow University of Applied Sciences](https://www.tomorrow.university/), where I help with learning design for technical courses on machine learning and AI. Prior to this I worked for several years as a full-stack software engineer at [Grant Street Group](https://www.grantstreet.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My goal at the moment is to find a new full-time position as a Machine Learning Engineer, with the ultimate objective of becoming involved in [technical AI alignment research](https://80000hours.org/career-reviews/ai-safety-researcher/). Although I've enjoyed my time as a software engineer, I miss the theory and math of machine learning, which was a primary focus of my graduate studies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I'm not staring at a screen trying to understand [RLHF](https://huggingface.co/blog/rlhf) or [ELK](https://ai-alignment.com/eliciting-latent-knowledge-f977478608fc), you can probably find me [cooking](https://mealie.foodandcheer.me/explore/recipes/home), rock climbing, [reading](https://www.goodreads.com/jondyer), or traveling with my family.
+
+You can reach me by [email](mailto:jbdyer@alumni.cmu.edu) or at one of the links below.
