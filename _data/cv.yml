@@ -3,106 +3,250 @@
   contents:
     - name: Full Name
       value: Jonathan Dyer
-    - name: Date of Birth
-      value: 2 Feb 1994
+    - name: Location
+      value: Pittsburgh, PA
     - name: Languages
-      value: English, Spanish
+      value: English (native), Spanish (intermediate)
+    - name: Summary
+      value: >
+        Carnegie Mellon University alum with 4+ years of experience in software engineering and strong fundamentals in machine learning.
+        Enjoys diving into complex systems and analyzing difficult problems. Experience and interest in distributed systems, machine learning, and technical AI alignment.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Learning Design and Research
+      institution: <a href="https://tomorrow.university/">Tomorrow University of Applied Sciences</a>
+      year: 2023-
+      location: |
+        Berlin, Germany
+        (remote)
+      # linkitems:
+        # - link: https://tomorrow.university/
+          # linkname: Website
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Designed and authored data science and machine learning course materials for an edtech startup
+        - Built automated assessment pipelines that integrated generative LLMs
+        - Led class sessions and taught advanced techniques for data structures, algorithms, and AI
+        - title: Skills
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - "GraphQL | Machine Learning | Artificial Intelligence (AI) | Algorithms | APIs | Data Science | Teaching | Python"
+
+    - title: Full Stack Software Engineer
+      employer: <a href="https://grantstreet.com/">Grant Street Group</a>
+      location: |
+        Pittsburgh, PA
+        (remote)
+      year: 2020-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Developed efficient APIs and microservices to handle thousands of transactions per day
+        - Consolidated multiple workflows into a user-friendly tool, significantly improving productivity
+        - Upgraded legacy application frontend to modern Javascript frameworks including Vue.js
+        - Mentored new developers and team members during onboarding and project ramp-up
+        - title: Skills
+          contents:
+            - "Vue.js | SQL | JavaScript | Perl | Scrum | Go"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Devops / InfoSec Intern
+      employer: <a href="https://www.miopartners.com/">MIO Partners</a>
+      year: 2019
       description:
+        - Designed and built a custom suite of 10+ intelligence tools for the information security team
+        - Created pipelines for standardizing deployment across application teams, saving hours per week
+        - title: Skills
+          contents:
+            - "DevOps | Cyber Threat Intelligence | Python | Jenkins | Bash"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Graduate Teaching Assistant
+      institution: Carnegie Mellon University
+      location: Pittsburgh, PA
+      year: 2019
+      maindescription: Graded and tutored for computer science courses.
+      description:
+        - "Object Oriented Programming for Managers"
+        - "Introduction to Programming with Python"
+        - title: Skills
+          contents:
+            - "Software Design | Data Structures | Web Scraping | Java | Python"
 
-- title: Open Source Projects
+    - title: Software Engineering Intern
+      employer: UPMC Enterprises
+      year: 2018
+      description:
+        - Implemented full-stack solutions to enhance reporting capabilities for existing clients
+        - Attained 100% test coverage for all code and actively contributed as a member of an Agile software development team
+        - title: Skills
+          contents:
+            - "Docker | Gradle | JavaScript | Java | Jenkins"
+
+
+- title: Skills
+  type: list_groups
+  contents:
+    - category: Languages
+      icon: "fas fa-terminal"
+      items:
+        - name: Python
+        - name: JavaScript
+        - name: SQL
+        - name: Perl
+        - name: Java
+        - name: Solidity
+        - name: Go
+    - category: Devops
+      icon: "fas fa-laptop-code"
+      items:
+        - name: Git
+        - name: Jenkins
+        - name: Docker
+        - name: AWS
+        - name: Linux
+        - name: bash
+        - name: Scrum/Kanban
+    - category: Data Science and ML
+      icon: "fas fa-chart-line"
+      items:
+        - name: NumPy
+        - name: Pandas
+        - name: matplotlib
+        - name: machine learning
+        - name: neural networks/deep learning
+        - name: NLP
+        - name: TensorFlow
+        - name: Scikit-learn
+        - name: data visualization
+        - name: AI safety & alignment
+
+
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Master of Information Systems Management
+      institution: Carnegie Mellon University
+      department: Heinz College of Information Systems and Public Policy
+      location: Pittsburgh, PA
+      year: 2019
+      maindescription: >
+        A blend of technical and leadership skills, with a focus on machine learning, data science and big data,
+        distributed systems, programming and system design, and disruptive technologies. Graduated with highest honors.
+
+    - title: Bachelor of Science
+      institution: University of Pittsburgh
+      location: Pittsburgh, PA
+      year: 2018
+      description:
+        - B.S. in Computer Science
+        - B.S. in Mathematics
+        - Minor in Linguistics
+
+    - title: IT Lab Fellowship
+      institution: Carnegie Mellon University
+      department: Heinz College of Information Systems and Public Policy
+      location: Pittsburgh, PA
+      year: 2017
+      description:
+        - Trained in information management, database security, and penetration testing with CERT
+        - Led the top pen-testing team in our cohort of 20+ students
+        - Generated executive-level reports on IoT security, encryption standards, and risk assessment and impact analysis
+
+
+- title: Coursework
+  type: list_groups
+  contents:
+    - category: Mathematics
+      icon: "fas fa-square-root-variable"
+      items:
+        - name: Abstract Algebra
+        - name: Graph Theory
+        - name: Linear Algebra
+        - name: Mathematical Cryptography
+        - name: Multivariable Calculus
+        - name: Probability Theory
+        - name: Topology
+    - category: Computer Science
+      icon: "fas fa-computer"
+      items:
+        - name: Algorithm Design
+        - name: Algorithm Implementation
+        - name: Applied Cryptography
+        - name: Data Structures
+        - name: Database Management and Security
+        - name: Distributed Systems
+        - name: Internet of Things
+        - name: Systems Programming
+        - name: Theory of Computation
+    - category: Data Science and ML
+      icon: "fas fa-circle-nodes"
+      items:
+        - name: Data-Focused Python
+        - name: Statistical Machine Learning
+        - name: Data Science and Big Data
+        - name: Unstructured Data Analytics
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
+      institution: University of Pittsburgh
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Culver Award — outstanding performance by a student of mathematics
+    - year: 2017
+      institution: University of Pittsburgh
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Laura LaFave and Peter Hallet endowment — exceptional performance in mathematics
+    - year: 2016
+      institution: <a href="https://www.daad.de/rise/en/rise-germany/">Deutscher Akademischer Austauschdienst</a> (German Academic Exchange Service)
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list_groups
-  contents:
-    - category: Hobby 1
-      icon: face
+        - DAAD-RISE Fellowship — research fellowship through the German government
+        - Visiting summer research intern at the Cognitive Systems Group in Universität Bremen
+    - year: 2012
+      institution: University of Pittsburgh
       items:
-        - name: Test name
-          level: advanced
-          school: CMU
-          time: 3 years
-          link: google.com
-        - name: Other thing here
-          level: white belt
-          school: western
-          time: 11:00pm
+        - Chancellor's Scholarship — highest academic award given to new students
+
+
+- title: Publications
+  type: list
+  contents:
+    - See <a href="/publications/">website</a> for publications.
+
+
+- title: Projects
+  type: list
+  contents:
+    - See <a href="/projects/">website</a> for projects.
+
+
+- title: Volunteer
+  type: time_table
+  contents:
+    - title: Volunteer Missionary
+      year: 2013-2015
+      institution: The Church of Jesus Christ of Latter-day Saints
+      maindescription: Full-time missionary (proselytizing and service) in the greater Kansas City, Missouri metro area. 
+      items: 
+        - Administered small (6-12) and medium (18-26) groups of fellow volunteers--this regularly included delivering specialized and motivational training, facilitating meetings, resolving conflicts, delegating responsibility, and orchestrating large group projects
+        - Spearheaded the regional pilot program for a national nonprofit service organization
+        - Coordinated with regional leaders to deliver presentations and conduct meetings for groups of up to 150 volunteer representatives
+    - title: Volunteer Tutor
+      year: 2013
+      institution: University of Pittsburgh
+      maindescription: Worked with at-risk youth in inner-city grade schools in Pittsburgh; provided math tutoring, privately or in small groups, for struggling students.
+
+
+
+# - title: Other Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+
