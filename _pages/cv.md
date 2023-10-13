@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Jonathan Dyer
 nav: true
 nav_order: 4
 cv_pdf: jondyer_website.pdf
-description: Comprehensive summary of my work, education, and experience.
+description: Carnegie Mellon University alum with 4+ years of experience in software engineering and strong fundamentals in machine learning. Enjoys diving into complex systems and analyzing difficult problems. Experience and interest in distributed systems, machine learning, and technical AI alignment.
 toc:
   sidebar: left
 ---

@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jonathan Dyer
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2 Feb 1994
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
@@ -92,6 +92,17 @@
         - Description 2.
 
 - title: Other Interests
-  type: list
+  type: list_groups
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - category: Hobby 1
+      icon: face
+      items:
+        - name: Test name
+          level: advanced
+          school: CMU
+          time: 3 years
+          link: google.com
+        - name: Other thing here
+          level: white belt
+          school: western
+          time: 11:00pm
