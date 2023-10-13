@@ -3,12 +3,12 @@
       <li class="list-group-item">
         <div class="row">
           {% if content.year %}
-            <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+            <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 100px;">
               <table class="table-cv">
                 <tbody>
                   <tr>
                     <td>
-                      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">{{ content.year }}</span>
+                      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 90px;">{{ content.year }}</span>
                     </td>
                   </tr>
                   {% if content.location %}
@@ -27,9 +27,15 @@
             {% if content.title %}
             <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
             {% endif %}
-            {% if content.department or content.institution %}
+            {% if content.department or content.institution or content.employer %}
             <table class="table-cv ml-1 ml-md-4 institution">
             <tbody>
+              {% if content.employer %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="building"><i class="fas fa-building iconinstitution"></i></td>
+                <td class="building">{{content.employer}}</td>
+              </tr>
+              {% endif %}
               {% if content.institution %}
               <tr>
                 <td style="vertical-align: top; text-align: center;" class="institution"><i class="fas fa-university iconinstitution"></i></td>

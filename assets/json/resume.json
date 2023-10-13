@@ -1,14 +1,79 @@
 {
-  "work": [
+  // Comma below so json will fail to load; see _data/cv.yml for current cv info
+  "work": [,
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Tomorrow University of Applied Sciences",
+      "position": "Learning Design and Research",
+      "url": "https://www.tomorrow.university/",
+      "startDate": "2023-05-01",
+      "endDate": "current",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "Designed and authored data science and machine learning course materials for an edtech startup",
+        "Built automated assessment pipelines that integrated generative LLMs",
+        "Led class sessions and taught advanced techniques for data structures, algorithms, and AI"
+      ]
+    },
+    {
+      "name": "Tomorrow University of Applied Sciences",
+      "position": "Learning Design and Research",
+      "url": "https://www.tomorrow.university/",
+      "startDate": "2023-05-01",
+      "endDate": "current",
+      "summary": "",
+      "highlights": [
+        "Designed and authored data science and machine learning course materials for an edtech startup",
+        "Built automated assessment pipelines that integrated generative LLMs",
+        "Led class sessions and taught advanced techniques for data structures, algorithms, and AI"
+      ]
+    },
+    {
+      "name": "Grant Street Group",
+      "position": "Full Stack Software Engineer",
+      "url": "https://www.grantstreet.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-12-01",
+      "summary": "",
+      "highlights": [
+        "Developed efficient APIs and microservices to handle thousands of transactions per day",
+        "Consolidated multiple workflows into a user-friendly tool, significantly improving productivity",
+        "Upgraded legacy application frontend to modern Javascript frameworks including Vue.js",
+        "Mentored new developers and team members during onboarding and project ramp-up"
+      ]
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-01",
+      "summary": "Graded and tutored for computer science courses.",
+      "highlights": [
+        "Object Oriented Programming for Managers",
+        "Introduction to Programming with Python"
+      ]
+    },
+    {
+      "name": "MIO Partners",
+      "position": "Devops / InfoSec Intern",
+      "url": "https://www.miopartners.com/",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-31",
+      "highlights": [
+        "Object Oriented Programming for Managers",
+        "Introduction to Programming with Python"
+      ]
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-01",
+      "summary": "Graded and tutored for computer science courses.",
+      "highlights": [
+        "Object Oriented Programming for Managers",
+        "Introduction to Programming with Python"
       ]
     }
   ],
