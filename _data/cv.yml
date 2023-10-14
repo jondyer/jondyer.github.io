@@ -27,7 +27,7 @@
           # linkname: Website
       maindescription: |
         <i>Skills: GraphQL | Machine Learning | Artificial Intelligence (AI) | Algorithms | APIs | Data Science | Teaching | Python</i>
-        <br><br>
+        <br>
       description:
         - Designed and authored data science and machine learning course materials for an edtech startup
         - Built automated assessment pipelines that integrated generative LLMs
@@ -41,7 +41,7 @@
       year: 2020-2022
       maindescription: |
         <i>Skills: Vue.js | SQL | JavaScript | Perl | System Design | Microservices</i>
-        <br><br>
+        <br>
       description:
         - Developed efficient APIs and microservices to handle thousands of transactions per day
         - Consolidated multiple workflows into a user-friendly tool, significantly improving productivity
@@ -53,7 +53,7 @@
       year: 2019
       maindescription: |
         <i>Skills: DevOps | Cyber Threat Intelligence | Python | Jenkins | Bash</i>
-        <br><br>
+        <br>
       description:
         - Designed and built a custom suite of 10+ intelligence tools for the information security team
         - Created pipelines for standardizing deployment across application teams, saving hours per week
@@ -63,19 +63,20 @@
       location: Pittsburgh, PA
       year: 2019
       maindescription: |
-        Graded and tutored for computer science courses.
         <i>Skills: Software Design | Data Structures | Web Scraping | Java | Python</i>
         <br><br>
+        Graded and tutored for computer science courses:
+        <br>
       description:
-        - "Object Oriented Programming for Managers"
-        - "Introduction to Programming with Python"
+        - <i>Object Oriented Programming for Managers</i>
+        - <i>Introduction to Programming with Python</i>
 
     - title: Software Engineering Intern
       employer: UPMC Enterprises
       year: 2018
       maindescription: |
         <i>Skills: Docker | Gradle | JavaScript | Java | Jenkins</i>
-        <br><br>
+        <br>
       description:
         - Implemented full-stack solutions to enhance reporting capabilities for existing clients
         - Attained 100% test coverage for all code and actively contributed as a member of an Agile software development team
