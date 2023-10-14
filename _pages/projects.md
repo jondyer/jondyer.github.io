@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some examples of my work. This page is still under construction; more to come soon!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [academic, professional, fun]
 horizontal: false
 ---
 
