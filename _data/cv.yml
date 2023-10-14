@@ -25,13 +25,13 @@
       # linkitems:
         # - link: https://tomorrow.university/
           # linkname: Website
+      maindescription: |
+        <i>Skills: GraphQL | Machine Learning | Artificial Intelligence (AI) | Algorithms | APIs | Data Science | Teaching | Python</i>
+        <br><br>
       description:
         - Designed and authored data science and machine learning course materials for an edtech startup
         - Built automated assessment pipelines that integrated generative LLMs
         - Led class sessions and taught advanced techniques for data structures, algorithms, and AI
-        - title: Skills
-          contents:
-            - "GraphQL | Machine Learning | Artificial Intelligence (AI) | Algorithms | APIs | Data Science | Teaching | Python"
 
     - title: Full Stack Software Engineer
       employer: <a href="https://grantstreet.com/">Grant Street Group</a>
@@ -39,46 +39,46 @@
         Pittsburgh, PA
         (remote)
       year: 2020-2022
+      maindescription: |
+        <i>Skills: Vue.js | SQL | JavaScript | Perl | System Design | Microservices</i>
+        <br><br>
       description:
         - Developed efficient APIs and microservices to handle thousands of transactions per day
         - Consolidated multiple workflows into a user-friendly tool, significantly improving productivity
         - Upgraded legacy application frontend to modern Javascript frameworks including Vue.js
         - Mentored new developers and team members during onboarding and project ramp-up
-        - title: Skills
-          contents:
-            - "Vue.js | SQL | JavaScript | Perl | Scrum | Go"
 
     - title: Devops / InfoSec Intern
       employer: <a href="https://www.miopartners.com/">MIO Partners</a>
       year: 2019
+      maindescription: |
+        <i>Skills: DevOps | Cyber Threat Intelligence | Python | Jenkins | Bash</i>
+        <br><br>
       description:
         - Designed and built a custom suite of 10+ intelligence tools for the information security team
         - Created pipelines for standardizing deployment across application teams, saving hours per week
-        - title: Skills
-          contents:
-            - "DevOps | Cyber Threat Intelligence | Python | Jenkins | Bash"
 
     - title: Graduate Teaching Assistant
       institution: Carnegie Mellon University
       location: Pittsburgh, PA
       year: 2019
-      maindescription: Graded and tutored for computer science courses.
+      maindescription: |
+        Graded and tutored for computer science courses.
+        <i>Skills: Software Design | Data Structures | Web Scraping | Java | Python</i>
+        <br><br>
       description:
         - "Object Oriented Programming for Managers"
         - "Introduction to Programming with Python"
-        - title: Skills
-          contents:
-            - "Software Design | Data Structures | Web Scraping | Java | Python"
 
     - title: Software Engineering Intern
       employer: UPMC Enterprises
       year: 2018
+      maindescription: |
+        <i>Skills: Docker | Gradle | JavaScript | Java | Jenkins</i>
+        <br><br>
       description:
         - Implemented full-stack solutions to enhance reporting capabilities for existing clients
         - Attained 100% test coverage for all code and actively contributed as a member of an Agile software development team
-        - title: Skills
-          contents:
-            - "Docker | Gradle | JavaScript | Java | Jenkins"
 
 
 - title: Skills

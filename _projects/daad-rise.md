@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creative Cognition
-description: Research engineering with cognitive systems in Germany.
+description: Research engineering with cognitive systems in Germany
 img: assets/img/publication_preview/comrat.png
 importance: 1
 category: academic

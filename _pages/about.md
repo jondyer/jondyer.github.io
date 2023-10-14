@@ -25,4 +25,4 @@ My goal at the moment is to find a new full-time position as a Machine Learning 
 
 When I'm not staring at a screen trying to understand [RLHF](https://huggingface.co/blog/rlhf) or [ELK](https://ai-alignment.com/eliciting-latent-knowledge-f977478608fc), you can probably find me [cooking](https://mealie.foodandcheer.me/explore/recipes/home), rock climbing, [reading](https://www.goodreads.com/jondyer), or traveling with my family.
 
-You can reach me by [email](mailto:jbdyer@alumni.cmu.edu) or at one of the links below.
+You can reach me by [email](mailto:jbdyer@alumni.cmu.edu) or at one of the links above.
