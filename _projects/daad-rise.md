@@ -1,9 +1,9 @@
 ---
 layout: page
-title: creative cognition
-description: research engineering with cognitive systems in Germany
+title: Creative Cognition
+description: Research engineering with cognitive systems in Germany.
 img: assets/img/publication_preview/comrat.png
-importance: 2
+importance: 1
 category: academic
 toc:
   sidebar: left
@@ -67,13 +67,13 @@ Consequently, we sought to  build up the existing pool of compound RAT items by 
 
 Here $$w_{ans}$$ is the answer word and $$w_q$$ is a potential query word. The third column is the frequency of association between the query word $$w_q$$ and the answer word $$w_{ans}$$, while the fourth column represents the frequency between the query word and any word. Finally the fifth column is the probability of the answer given the specific query word $$w_q$$.
 
-In all, we generated over 17 million potential noun-noun compound RAT queries which can be controlled for frequency and probability. Details are available in the published paper (see References).
+In total we generated over 17 million potential noun-noun compound RAT queries which can be controlled for frequency and probability. Details are available in the published paper (see References).
 
 ___
 
 ### Adaptive Answer Strategies
 
-Finally, I developed further ideas related to strategies of humans in answering RAT queries, and the differences between those strategies depending on the types of associations (semantic vs compound relations) the query words had with each other. This led to multiple conference presentations and further research by Ana-Maria and the Cognitive Systems Group (see References).
+Finally, I developed further hypotheses related to strategies of humans in answering RAT queries, and the differences between those strategies depending on the types of associations (semantic vs compound relations) the query words had with each other. This led to multiple conference presentations and further research by Ana-Maria and the Cognitive Systems Group (see References).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
