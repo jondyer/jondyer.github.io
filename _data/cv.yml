@@ -9,14 +9,14 @@
       value: English (native), Spanish (intermediate)
     - name: Summary
       value: >
-        Carnegie Mellon University alum with 4+ years of experience in software engineering and strong fundamentals in machine learning.
+        Carnegie Mellon University alum with 4+ years of experience in software engineering and graduate studies in machine learning.
         Enjoys diving into complex systems and analyzing difficult problems. Experience and interest in distributed systems, machine learning, and technical AI alignment.
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Learning Design and Research
+    - title: ML Course Design and Research
       institution: <a href="https://tomorrow.university/">Tomorrow University of Applied Sciences</a>
       year: 2023-
       location: |
@@ -181,8 +181,8 @@
       icon: "fas fa-circle-nodes"
       items:
         - name: Data-Focused Python
-        - name: Statistical Machine Learning
         - name: Data Science and Big Data
+        - name: Statistical Machine Learning
         - name: Unstructured Data Analytics
 
 
