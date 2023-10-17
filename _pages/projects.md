@@ -6,7 +6,7 @@ description: Some examples of my work. This page is still under construction; mo
 nav: true
 nav_order: 2
 display_categories: [academic, work, personal]
-horizontal: false
+horizontal: true
 ---
 
 <!-- _pages/projects.md -->
