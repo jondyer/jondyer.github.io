@@ -119,7 +119,7 @@ pagination:
     <li>
 {%- if post.thumbnail -%}
 <div class="row">
-          <div class="col-sm-9">
+  <div class="col-sm-9">
 {%- endif -%}
         <h3>
         {% if post.redirect == blank %}

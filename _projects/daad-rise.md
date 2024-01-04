@@ -7,7 +7,6 @@ importance: 1
 category: academic
 toc:
   sidebar: left
-related_publications: comrat_article, ieee_conference
 ---
 
 ## Background
@@ -84,3 +83,9 @@ Finally, I developed further hypotheses related to strategies of humans in answe
 <br>
 
 <br>
+
+---
+
+## References
+
+Check out the associated [publications](/publications/).
